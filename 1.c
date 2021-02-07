@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include<iostream.h>
 using namespace std;
 void dfs(int u, int pa, int tot, vector<int>edge[],int sub[], int& re)
 {
